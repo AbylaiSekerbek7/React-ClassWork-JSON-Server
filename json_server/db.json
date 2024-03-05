@@ -1,0 +1,21 @@
+{
+  "books": [
+    {
+      "id": "5e5f6dc2-9128-4dc8-b418-264bf8963577",
+      "title": "",
+      "author": ""
+    },
+    {
+      "id": "14be57ce-1f97-4073-8666-ada45aeb1048",
+      "title": "few",
+      "author": "fwr"
+    }
+  ],
+  "favorites": [
+    {
+      "id": "bbef6cba-7381-4571-a094-b2724d8e926f",
+      "title": "",
+      "author": ""
+    }
+  ]
+}
